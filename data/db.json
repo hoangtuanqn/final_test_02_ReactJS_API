@@ -1,0 +1,94 @@
+{
+  "countries": [
+      {
+          "id": 1,
+          "code": "VN",
+          "name": "Việt Nam",
+          "capital": "Hà Nội"
+      },
+      {
+          "id": 2,
+          "code": "US",
+          "name": "Hoa Kỳ",
+          "capital": "Washington, D.C."
+      },
+      {
+          "id": 3,
+          "code": "JP",
+          "name": "Nhật Bản",
+          "capital": "Tokyo"
+      },
+      {
+          "id": 4,
+          "code": "KR",
+          "name": "Hàn Quốc",
+          "capital": "Seoul"
+      },
+      {
+          "id": 5,
+          "code": "CN",
+          "name": "Trung Quốc",
+          "capital": "Bắc Kinh"
+      },
+      {
+          "id": 6,
+          "code": "FR",
+          "name": "Pháp",
+          "capital": "Paris"
+      },
+      {
+          "id": 7,
+          "code": "GB",
+          "name": "Vương quốc Anh",
+          "capital": "London"
+      },
+      {
+          "id": 8,
+          "code": "DE",
+          "name": "Đức",
+          "capital": "Berlin"
+      },
+      {
+          "id": 9,
+          "code": "IT",
+          "name": "Ý",
+          "capital": "Rome"
+      },
+      {
+          "id": 10,
+          "code": "CA",
+          "name": "Canada",
+          "capital": "Ottawa"
+      },
+      {
+          "id": 11,
+          "code": "AU",
+          "name": "Úc",
+          "capital": "Canberra"
+      },
+      {
+          "id": 12,
+          "code": "BR",
+          "name": "Brazil",
+          "capital": "Brasília"
+      },
+      {
+          "id": 13,
+          "code": "IN",
+          "name": "Ấn Độ",
+          "capital": "New Delhi"
+      },
+      {
+          "id": 14,
+          "code": "RU",
+          "name": "Nga",
+          "capital": "Moscow"
+      },
+      {
+          "id": 15,
+          "code": "ZA",
+          "name": "Nam Phi",
+          "capital": "Pretoria"
+      }
+  ]
+}
